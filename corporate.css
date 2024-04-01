@@ -1,0 +1,40 @@
+#first{
+    width: auto;
+    padding: 150px;
+    background-image: url(service-inner-1627385082.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: green;
+   
+   
+}
+#third{
+    background-color: #181A1B;
+}
+#fourth{
+    padding: 100px;
+
+}
+#fifth{
+    padding: 50px;
+    background-color: gray;
+
+}
+#box{
+    box-shadow: 0px 0px 10px 6px rgba(0, 0, 0, 1.5);
+    background-color: #fff;
+}
+#box1{
+    box-shadow: 0px 0px 10px 6px rgba(0, 0, 0, 1.5);
+    background-color: #fff;
+}
+#box2{
+    box-shadow: 0px 0px 10px 6px rgba(0, 0, 0, 1.5);
+    background-color: #fff;
+}
+footer{
+   
+    padding-left: 100px;
+    padding-top: 5px;
+    background-color: #181A1B;
+}
